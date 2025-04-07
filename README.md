@@ -5,7 +5,7 @@ Our answers to puzzles
 2) -
 3) -
 4) Offwhite
-5) Discower
+5) Discover
 6) Chilidog
 7) -
 8) Spectrum
