@@ -1,5 +1,5 @@
 # CS50-2025-PetrIna team
-Our answers to pazles
+Our answers to puzzles
 
 1) The blue mosque city
 2) -
@@ -13,4 +13,4 @@ Our answers to pazles
 
 
 Petro Minin 
-Irina Polinyk 
+Iryna Polinyk 
