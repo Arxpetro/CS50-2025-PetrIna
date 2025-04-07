@@ -1,7 +1,7 @@
 # CS50-2025-PetrIna team
 Our answers to puzzles
 
-1) The blue mosque city
+1) Istanbul
 2) -
 3) -
 4) Offwhite
